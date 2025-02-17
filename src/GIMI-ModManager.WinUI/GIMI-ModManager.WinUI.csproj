@@ -278,6 +278,11 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <Content Remove="Strings\es-ar\Resources.resw" />
+	  <Content Remove="Strings\es-ar\Settings.resw" />
+	</ItemGroup>
+
+	<ItemGroup>
 	  <Page Update="Views\CharacterManager\InputWrapper.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </Page>

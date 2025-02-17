@@ -322,7 +322,7 @@ public partial class CharactersViewModel : ObservableRecipient, INavigationAware
         ModToggleText = $"Show only {category.DisplayNamePlural} with Mods";
         ModEnabledToggleText = $"Show only {category.DisplayNamePlural} with Enabled Mods";
         ModNotificationsToggleText = $"Show only {category.DisplayNamePlural} with Mod Notifications";
-        SearchBoxPlaceHolder = $"Search {category.DisplayNamePlural}...";
+        SearchBoxPlaceHolder = $"搜索 {category.DisplayNamePlural}...";
 
 
         var characters = _gameService.GetModdableObjects(_category);

@@ -130,37 +130,4 @@
   <data name="StartElevatorDialogTitle" xml:space="preserve">
     <value>启动同步进程？</value>
   </data>
-  <data name="GameSettings_IndependentSave.Text" xml:space="preserve">
-    <value>设置会为每个选择的游戏独立保存。</value>
-  </data>
-  <data name="Settings_About.Text" xml:space="preserve">
-    <value>关于此应用</value>
-  </data>
-  <data name="Settings_AboutDescription.Text" xml:space="preserve">
-    <value>JASM的目标是让管理大量皮肤模组变得简单</value>
-  </data>
-  <data name="Settings_Export_Title.Text" xml:space="preserve">
-    <value>导出/备份模组</value>
-  </data>
-  <data name="Settings_Export_Button.Text" xml:space="preserve">
-    <value>导出模组</value>
-  </data>
-  <data name="Settings_ExportDialog.Text" xml:space="preserve">
-    <value>这将导出JASM管理的所有模组到您选择的导出文件夹。模组将被复制到导出文件夹，而不会从原始文件夹中删除。</value>
-  </data>
-  <data name="Settings_ExportDialog_ChangeStatus.Text" xml:space="preserve">
-    <value>更改导出的模组状态</value>
-  </data>
-  <data name="Settings_ExportDialog_KeepStructure.Text" xml:space="preserve">
-    <value>在导出文件夹中保留CharacterName/Mods的文件夹结构</value>
-  </data>
-  <data name="Settings_ExportDialog_RemoveJasm.Text" xml:space="preserve">
-    <value>从导出的模组中移除JASM配置文件</value>
-  </data>
-  <data name="Settings_ExportDialogButtons.CloseButtonText" xml:space="preserve">
-    <value>取消</value>
-  </data>
-  <data name="Settings_ExportDialogButtons.PrimaryButtonText" xml:space="preserve">
-    <value>导出</value>
-</data>
 </root>
